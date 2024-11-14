@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "LabDocs",
-  description: "KUET CSE Lab Works and Docs by @Faysal",
+  description: "Stat Notes by @Sejuti",
   base: '/mathDiary/',
   head: [['link', { rel: 'icon', type: 'image/png', href: '/3-2_Lab_works/google-docs.png' }]],
   
