@@ -39,18 +39,10 @@ export default defineConfig({
           { text: 'Lecture 1', link: '/Probability-Statistics/probability_lecture_1.md' },
         ]
       },
-      {
-        text: 'CSE 3212 : Compiler',
-        collapsed: false,
-        items: [
-          { text: 'Lab 1: Intro to Flex', link: '/CSE_3212-Compiler_Lab/Lab_1/README' },
-          { text: 'Lab 2: Intro to Flex 2', link: '/CSE_3212-Compiler_Lab/Lab_2/README' },
-        ]
-      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Faysal-star/3-2_Lab_works' }
+      { icon: 'github', link: 'https://github.com/sejuti-falgunii/' }
     ]
   },
 
