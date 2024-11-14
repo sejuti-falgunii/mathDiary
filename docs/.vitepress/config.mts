@@ -26,6 +26,20 @@ export default defineConfig({
         ]
       },
       {
+        text: '6.041_MITOpenCourseWare_Probability',
+        collapsed: false,
+        items: [
+          { text: 'Lecture 1', link: '/6.041_MITOpenCourseWare_Probability/probability_lecture_1.md' },
+        ]
+      },
+      {
+        text: 'Probability-Statistics',
+        collapsed: false,
+        items: [
+          { text: 'Lecture 1', link: '/Probability-Statistics/probability_lecture_1.md' },
+        ]
+      },
+      {
         text: 'CSE 3212 : Compiler',
         collapsed: false,
         items: [

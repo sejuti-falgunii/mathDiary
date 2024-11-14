@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800">
+  <!-- Root Node -->
+  <g class="node" transform="translate(500, 50)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Start</text>
+  </g>
+
+  <!-- Branch 1 -->
+  <line x1="500" y1="65" x2="300" y2="120" stroke="black" />
+  <g class="node" transform="translate(300, 120)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Branch 1</text>
+  </g>
+
+  <!-- Sub-branch 1.1 -->
+  <line x1="300" y1="135" x2="150" y2="190" stroke="black" />
+  <g class="node" transform="translate(150, 190)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Sub-branch 1.1</text>
+  </g>
+
+  <!-- Leaf 1.1.1 -->
+  <line x1="150" y1="205" x2="50" y2="260" stroke="black" />
+  <g class="node" transform="translate(50, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 1.1.1</text>
+  </g>
+
+  <!-- Leaf 1.1.2 -->
+  <line x1="150" y1="205" x2="250" y2="260" stroke="black" />
+  <g class="node" transform="translate(250, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 1.1.2</text>
+  </g>
+
+  <!-- Sub-branch 1.2 -->
+  <line x1="300" y1="135" x2="300" y2="190" stroke="black" />
+  <g class="node" transform="translate(300, 190)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Sub-branch 1.2</text>
+  </g>
+
+  <!-- Leaf 1.2.1 -->
+  <line x1="300" y1="205" x2="200" y2="260" stroke="black" />
+  <g class="node" transform="translate(200, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 1.2.1</text>
+  </g>
+
+  <!-- Leaf 1.2.2 -->
+  <line x1="300" y1="205" x2="400" y2="260" stroke="black" />
+  <g class="node" transform="translate(400, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 1.2.2</text>
+  </g>
+
+  <!-- Sub-branch 1.3 -->
+  <line x1="300" y1="135" x2="450" y2="190" stroke="black" />
+  <g class="node" transform="translate(450, 190)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Sub-branch 1.3</text>
+  </g>
+
+  <!-- Leaf 1.3.1 -->
+  <line x1="450" y1="205" x2="350" y2="260" stroke="black" />
+  <g class="node" transform="translate(350, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 1.3.1</text>
+  </g>
+
+  <!-- Leaf 1.3.2 -->
+  <line x1="450" y1="205" x2="550" y2="260" stroke="black" />
+  <g class="node" transform="translate(550, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 1.3.2</text>
+  </g>
+
+  <!-- Branch 2 -->
+  <line x1="500" y1="65" x2="700" y2="120" stroke="black" />
+  <g class="node" transform="translate(700, 120)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Branch 2</text>
+  </g>
+
+  <!-- Sub-branch 2.1 -->
+  <line x1="700" y1="135" x2="550" y2="190" stroke="black" />
+  <g class="node" transform="translate(550, 190)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Sub-branch 2.1</text>
+  </g>
+
+  <!-- Leaf 2.1.1 -->
+  <line x1="550" y1="205" x2="450" y2="260" stroke="black" />
+  <g class="node" transform="translate(450, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 2.1.1</text>
+  </g>
+
+  <!-- Leaf 2.1.2 -->
+  <line x1="550" y1="205" x2="650" y2="260" stroke="black" />
+  <g class="node" transform="translate(650, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 2.1.2</text>
+  </g>
+
+  <!-- Sub-branch 2.2 -->
+  <line x1="700" y1="135" x2="700" y2="190" stroke="black" />
+  <g class="node" transform="translate(700, 190)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Sub-branch 2.2</text>
+  </g>
+
+  <!-- Leaf 2.2.1 -->
+  <line x1="700" y1="205" x2="600" y2="260" stroke="black" />
+  <g class="node" transform="translate(600, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 2.2.1</text>
+  </g>
+
+  <!-- Leaf 2.2.2 -->
+  <line x1="700" y1="205" x2="800" y2="260" stroke="black" />
+  <g class="node" transform="translate(800, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 2.2.2</text>
+  </g>
+
+  <!-- Sub-branch 2.3 -->
+  <line x1="700" y1="135" x2="850" y2="190" stroke="black" />
+  <g class="node" transform="translate(850, 190)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Sub-branch 2.3</text>
+  </g>
+
+  <!-- Leaf 2.3.1 -->
+  <line x1="850" y1="205" x2="750" y2="260" stroke="black" />
+  <g class="node" transform="translate(750, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 2.3.1</text>
+  </g>
+
+  <!-- Leaf 2.3.2 -->
+  <line x1="850" y1="205" x2="950" y2="260" stroke="black" />
+  <g class="node" transform="translate(950, 260)">
+    <rect x="-50" y="-15" width="100" height="30" stroke="black" fill="white" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="black">Leaf 2.3.2</text>
+  </g>
+</svg>
