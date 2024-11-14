@@ -1,6 +1,6 @@
 
 
-### Live URL : [github.com/sejuti-falgunii/mathDiary](https://github.com/sejuti-falgunii/mathDiary)
+### Live URL : [sejuti-falgunii.github.io/mathDiary/](https://sejuti-falgunii.github.io/mathDiary/)
 
 
 
