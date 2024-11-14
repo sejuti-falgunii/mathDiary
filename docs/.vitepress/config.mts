@@ -19,13 +19,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'CSE 3202 : OS',
+        text: 'MIT-18.650-Statistics-for-Applications',
         collapsed: false,
         items: [
-          { text: 'Lab 1: Intro to Terminal', link: '/CSE_3202-OS_Lab/Lab_1/README' },
-          { text: 'Lab 2: Intro to Bash', link: '/CSE_3202-OS_Lab/Lab_2/README' },
-          { text: 'Lab 3: Intro to Bash 2', link: '/CSE_3202-OS_Lab/Lab_3/README' },
-          { text: 'Lab 4: Intro to Vim', link: '/CSE_3202-OS_Lab/Lab_4/README' },
+          { text: 'Lecture 1', link: '/MIT-18.650-Statistics-for-Applications/Lecture1.md' },
         ]
       },
       {
